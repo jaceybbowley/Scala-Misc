@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="N/A" external.linked.project.path="$MODULE_DIR$/../../module-one" external.root.project.path="$MODULE_DIR$/../../module-one" external.system.id="SBT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../module-one">
+      <sourceFolder url="file://$MODULE_DIR$/../../module-one/src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../module-one/src/test/scala" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../module-one/target" />
+      <excludeFolder url="file://$MODULE_DIR$/../../module-one/project/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
